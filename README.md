@@ -37,7 +37,7 @@ Well, do I have [the website for you][another fun place]!
 
 ### Page 4:
 #### Images:
-!(https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ![Black cat][Black]
 
