@@ -39,9 +39,9 @@ Well, do I have [the website for you][another fun place]!
 #### Images:
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-![Black cat][Black]
+![Black cat],[Black]
 
-![Orange cat][Orange]
+![Orange cat],[Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
