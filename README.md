@@ -86,13 +86,13 @@ I read this interesting quote the other day:
 
 1. Cut the cheese
 
- Make sure that the cheese is cut into little triangles.
+   Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
 
- Be careful when holding the knife.
+   Be careful when holding the knife.
  
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 ## Page 7:
 ### _Paragraphs:_
