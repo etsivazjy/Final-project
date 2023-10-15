@@ -96,7 +96,7 @@ I read this interesting quote the other day:
 
 ## Page 7:
 ### _Paragraphs:_
-We pictured the meek mild creatures where·· 
+We pictured the meek mild creatures where··   
 They dwelt in their strawy pen,··    
 Nor did it occur to one of us there··  
 To doubt they were kneeling then.
