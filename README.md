@@ -1,5 +1,3 @@
-## Jingya Zhao web exercise
-
 ### Page 1:
 #### Italics and Bold:
 
